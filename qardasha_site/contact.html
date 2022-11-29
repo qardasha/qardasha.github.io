@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/985163155233722419/987978906604814336/5765F23A-ECC9-4B4B-9206-AC3AF5B3600F.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div id="desktop-header"></div>
+        <div id="mobile-header"></div>
+    </header>
+    <div id="content-wrapper">
+        <div id="contact-wrapper">
+            <h2>Contact Us</h2>
+            <p>Contact us through the form below or by emailing <span style="font-weight:bold">sultanateofqardasha@gmail.com</span> directly.</p>
+            <ul>
+                <li>Copy message before sending in case of submission errors</li>
+                <li>Keep an eye out on your Spam folder for a response from us</li>
+            </ul>
+            <form id="contact-form" action="https://formsubmit.co/sultanateofqardasha@gmail.com" method="POST">
+                <div id="personal-info">
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Email" required>
+                </div>
+                <input type="text" name="_subject" placeholder="Subject" required>
+                <textarea name="message" placeholder="Enter message here" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+    <footer></footer>
+    <script src="function.js"></script>
+</body>
+</html>
