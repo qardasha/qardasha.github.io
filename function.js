@@ -37,7 +37,7 @@ let footer_html = `
     </div>
 </div>
 <div id="copyright-notice">
-    <p>Copyright &copy 2022 Site Solutions Inc.</p>
+    <p>Copyright &copy 2023 Site Solutions Inc.</p>
     <p>Authorised by the Government of Qardasha</p>
 </div>
 `
