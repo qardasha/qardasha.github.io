@@ -30,7 +30,7 @@ let footer_html = `
 <div id="footer-head">
     <div class="socials">
         <a class="social-button" target="_blank" href="https://www.youtube.com/@qardasha_gov"><i class="fa-brands fa-youtube"></i></a>
-        <a class="social-button" target="_blank" href="https://discord.gg/crJn7K5ME4"><i class="fa-brands fa-discord"></i></a>
+        <a class="social-button" target="_blank" href="https://discord.gg/WvUy5ZMHnE"><i class="fa-brands fa-discord"></i></a>
         <a class="social-button" target="_blank" href="https://twitter.com/QardashaGov"><i class="fa-brands fa-twitter"></i></a>
         <a class="social-button" target="_blank" href="https://micronations.wiki/wiki/Islamic_Sultanate_of_Qardasha"><i class="fa-solid fa-globe"></i></a>
         <a class="social-button" href="contact.html"><i class="fa-solid fa-envelope"></i></a>
